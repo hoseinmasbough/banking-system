@@ -1,6 +1,5 @@
 package com.azkivam.banking.service.transaction;
 
-import com.azkivam.banking.service.bank.TransactionType;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
